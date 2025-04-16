@@ -1,0 +1,2068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="oakdale_lines" name="oakdale_lines">
+      <SimpleField name="GIS_ID" type="int"/>
+      <SimpleField name="WKT" type="string"/>
+    </Schema>
+    <Schema id="oakdale_polygons.schema">
+      <SimpleField name="GIS_ID" type="int"/>
+      <SimpleField name="WKT" type="string"/>
+    </Schema>
+    <Folder>
+      <name>oakdale_lines</name>
+      <Placemark>
+        <name>E C ST-N 1ST AVE-E D ST_SOUTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">906</SimpleData>
+            <SimpleData name="WKT">LineString (-120.85123848 37.76779924, -120.85205484 37.76902298)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.851238482848,37.7677992391515,0
+            -120.852054842184,37.7690229829355,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>POPLAR ST-N 1ST AVE-LOTTIE ST_NORTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">913</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84991747 37.76617501, -120.85020939 37.76659248)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.849917467759,37.7661750102608,0
+            -120.850209389986,37.7665924828258,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>POPLAR ST-N 1ST AVE-LOTTIE ST_SOUTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">914</SimpleData>
+            <SimpleData name="WKT">LineString (-120.8501613 37.76616593, -120.85042122 37.76656559)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.850161304377,37.7661659263197,0
+            -120.850421224442,37.7665655926219,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>E C ST-N 1ST AVE-E D ST_NORTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">905</SimpleData>
+            <SimpleData name="WKT">LineString (-120.85116524 37.76800034, -120.851813 37.76897405)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.85116524454,37.7680003418245,0
+            -120.851813002696,37.7689740480144,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>MAGNOLIA ST-N 1ST AVE-E E ST_SOUTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">912</SimpleData>
+            <SimpleData name="WKT">LineString (-120.85054986 37.7667651, -120.8511519 37.76766238)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.850549855995,37.7667651038916,0
+            -120.851151898407,37.7676623806373,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>MAGNOLIA ST-N 1ST AVE-E E ST_NORTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">911</SimpleData>
+            <SimpleData name="WKT">LineString (-120.85044115 37.76691996, -120.85104182 37.76782015)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.850441150772,37.7669199578885,0
+            -120.851041820994,37.7678201547019,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N 2ND AVE-E D ST-N 1ST AVE_SOUTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">346</SimpleData>
+            <SimpleData name="WKT">LineString (-120.85101384 37.76786346, -120.85041937 37.76811099)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.851013842825,37.7678634645366,0
+            -120.850419367512,37.7681109861743,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N 2ND AVE-E D ST-N 1ST AVE_NORTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">345</SimpleData>
+            <SimpleData name="WKT">LineString (-120.85110224 37.76799047, -120.85049935 37.76824974)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.851102239096,37.7679904735367,0
+            -120.850499347289,37.7682497404445,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>E C ST-N 2ND AVE-E D ST_SOUTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">922</SimpleData>
+            <SimpleData name="WKT">LineString (-120.85048229 37.76830323, -120.85112982 37.76926755)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.850482292951,37.768303225892,0
+            -120.851129818267,37.7692675513651,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>E C ST-N 2ND AVE-E D ST_NORTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">921</SimpleData>
+            <SimpleData name="WKT">LineString (-120.85030868 37.76837151, -120.85095746 37.76933824)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.850308682662,37.7683715061822,0
+            -120.850957456075,37.7693382376118,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>S YOSEMITE AVE-E G ST-S 3RD AVE_NORTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">473</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84704133 37.76523176, -120.84645882 37.76547854)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.847041334101,37.7652317619826,0
+            -120.846458822783,37.765478541626,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N 3RD AVE-E E ST-N 2ND AVE_SOUTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">384</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84938617 37.7670521, -120.84881605 37.76729173)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.849386171412,37.7670520961374,0
+            -120.848816054344,37.7672917274723,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>LOTTIE ST-N 1ST AVE-S 1ST AVE_SOUTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">910</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84978185 37.76559957, -120.8500566 37.76602349)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.849781849099,37.7655995651971,0
+            -120.85005659966,37.7660234891742,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N 2ND AVE-E E ST-N 1ST AVE_NORTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">381</SimpleData>
+            <SimpleData name="WKT">LineString (-120.85027946 37.76684827, -120.84971982 37.76708584)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.850279455777,37.766848271012,0
+            -120.849719819864,37.7670858427844,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>E D ST-N 2ND AVE-E E ST_SOUTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">924</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84969664 37.76713077, -120.85034617 37.76810306)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.849696635045,37.7671307660642,0
+            -120.850346170019,37.7681030565805,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>S 1ST AVE-W G ST-CHURCH AVE_SOUTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">1709</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84892542 37.76426215, -120.84966267 37.76395343)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.848925416576,37.7642621513982,0
+            -120.849662673593,37.7639534276964,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>S 1ST AVE-W G ST-CHURCH AVE_NORTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">1708</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84902953 37.76438608, -120.8497489 37.76408604)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.84902953458,37.7643860761363,0
+            -120.849748903693,37.7640860445569,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>E F ST-S 1ST AVE-W G ST_SOUTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">1298</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84964818 37.76541682, -120.84900093 37.76444486)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.849648182901,37.7654168249295,0
+            -120.849000929753,37.7644448591968,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>E F ST-S 1ST AVE-W G ST_NORTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">1297</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84948756 37.76548346, -120.84883957 37.76451151)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.849487557006,37.7654834612255,0
+            -120.848839571925,37.7645115108629,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>LOTTIE ST-N 1ST AVE-S 1ST AVE_NORTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">909</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84961077 37.76567382, -120.84986299 37.76607086)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.849610771675,37.7656738191338,0
+            -120.849862991635,37.7660708615256,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N 2ND AVE-E F ST-S 1ST AVE_NORTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">417</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84954492 37.76565503, -120.8489314 37.76591174)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.849544920279,37.7656550328275,0
+            -120.848931400638,37.7659117393236,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>E E ST-N 2ND AVE-E F ST_SOUTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">926</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84893532 37.76597523, -120.84956325 37.76693605)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.848935317185,37.7659752255285,0
+            -120.849563247306,37.7669360540716,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N 2ND AVE-E E ST-N 1ST AVE_SOUTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">382</SimpleData>
+            <SimpleData name="WKT">LineString (-120.8501735 37.76672659, -120.84964541 37.76694269)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.850173504421,37.7667265867655,0
+            -120.849645413483,37.7669426916477,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N 3RD AVE-E E ST-N 2ND AVE_NORTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">383</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84947069 37.76717913, -120.84890874 37.76741767)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.849470686607,37.7671791254883,0
+            -120.848908737847,37.7674176683299,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>E D ST-N 2ND AVE-E E ST_NORTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">923</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84953481 37.76720113, -120.8501812 37.76816653)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.849534809014,37.7672011299242,0
+            -120.85018119624,37.7681665344191,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N 3RD AVE-E D ST-N 2ND AVE_SOUTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">348</SimpleData>
+            <SimpleData name="WKT">LineString (-120.85015784 37.76821549, -120.84954614 37.76846871)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.850157840433,37.7682154910586,0
+            -120.849546140013,37.7684687135416,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N 3RD AVE-E D ST-N 2ND AVE_NORTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">347</SimpleData>
+            <SimpleData name="WKT">LineString (-120.85023609 37.76835641, -120.84964017 37.76860786)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.850236092462,37.7683564074618,0
+            -120.849640173934,37.7686078562218,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>E C ST-N 3RD AVE-E D ST_SOUTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">932</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84962146 37.76865977, -120.85026566 37.7696208)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.849621459321,37.7686597680283,0
+            -120.850265657792,37.7696207968707,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>E C ST-N 3RD AVE-E D ST_NORTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">931</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84945009 37.76872476, -120.85009948 37.7696924)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.849450088541,37.7687247615351,0
+            -120.850099476836,37.7696924024756,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>S 2ND AVE-E G ST-W G ST_SOUTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">462</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84867411 37.76437482, -120.84806865 37.76462697)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.848674114357,37.7643748186159,0
+            -120.848068653016,37.7646269697315,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>S 2ND AVE-E G ST-W G ST_NORTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">461</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84876255 37.76450299, -120.84816453 37.76474967)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.848762547297,37.7645029908433,0
+            -120.848164529373,37.7647496675153,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>S 3RD AVE-E G ST-S 2ND AVE_SOUTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">464</SimpleData>
+            <SimpleData name="WKT">LineString (-120.8478359 37.76472422, -120.84721919 37.76498168)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.847835904336,37.7647242155246,0
+            -120.847219186195,37.764981683363,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>S 3RD AVE-E G ST-S 2ND AVE_NORTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">463</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84790314 37.76485837, -120.84730839 37.7651066)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.847903140863,37.7648583650827,0
+            -120.847308394779,37.765106596912,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>S YOSEMITE AVE-E G ST-S 3RD AVE_SOUTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">474</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84694492 37.7650999, -120.84635977 37.76534586)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.846944916257,37.7650998992965,0
+            -120.846359765676,37.7653458559922,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N 3RD AVE-S 3RD AVE-E G ST_SOUTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">1320</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84793204 37.76613084, -120.84728826 37.76517369)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.84793203722,37.76613083917,0
+            -120.847288256199,37.7651736937419,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N 2ND AVE-E F ST-S 1ST AVE_SOUTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">418</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84947605 37.76555264, -120.84886123 37.76580521)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.849476053541,37.7655526447108,0
+            -120.848861230798,37.7658052087773,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>S SIERRA AVE-E G ST-399 G ST_SOUTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">466</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84567841 37.76562521, -120.84534767 37.76576423)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.845678411879,37.765625213024,0
+            -120.845347674594,37.765764231139,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N 3RD AVE-S 3RD AVE-E G ST_NORTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">1319</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84776938 37.76619335, -120.84713777 37.76523226)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.84776937629,37.7661933465534,0
+            -120.847137774391,37.765232255315,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>S SIERRA AVE-E G ST-399 G ST_NORTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">465</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84577261 37.76575975, -120.84544226 37.76590154)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.845772612855,37.7657597533405,0
+            -120.84544225635,37.7659015427185,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N 3RD AVE-E F ST-N 2ND AVE_SOUTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">420</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84858489 37.76589512, -120.84799681 37.76614114)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.848584892281,37.7658951237777,0
+            -120.84799681397,37.7661411358046,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N 3RD AVE-E F ST-N 2ND AVE_NORTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">419</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84869549 37.7660109, -120.84806748 37.76627252)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.848695490127,37.7660108987405,0
+            -120.848067478516,37.7662725227125,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N YOSEMITE AVE-E F ST-N 3RD AVE_SOUTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">426</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84774849 37.76624595, -120.84713912 37.76650443)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.847748485651,37.7662459541593,0
+            -120.847139123503,37.7665044289657,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N YOSEMITE AVE-E F ST-N 3RD AVE_NORTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">425</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84782655 37.76637966, -120.84722416 37.76663637)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.847826547444,37.766379655006,0
+            -120.84722416051,37.7666363701208,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>E E ST-N 2ND AVE-E F ST_NORTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">925</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84876235 37.76602588, -120.84940835 37.76700448)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.848762354663,37.7660258827619,0
+            -120.849408349971,37.7670044821942,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>E E ST-N 3RD AVE-E F ST_SOUTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">936</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84809129 37.76636746, -120.84866389 37.76722318)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.848091286968,37.7663674649725,0
+            -120.848663888403,37.7672231812802,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>E E ST-N 3RD AVE-E F ST_NORTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">935</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84796758 37.76649451, -120.84854279 37.76735851)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.847967583595,37.7664945080339,0
+            -120.848542791235,37.7673585082683,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>E E ST-N YOSEMITE AVE-S YOSEMITE AVE_SOUTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">1042</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84720693 37.76669345, -120.84785331 37.76765886)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.847206927075,37.7666934498575,0
+            -120.847853314301,37.7676588609799,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>E E ST-N YOSEMITE AVE-S YOSEMITE AVE_NORTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">1041</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84703237 37.76682428, -120.84767105 37.76774074)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.847032369212,37.7668242784076,0
+            -120.847671053416,37.7677407449351,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>E E ST-N SIERRA AVE-E F ST_SOUTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">1032</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84621059 37.76709362, -120.84681519 37.76797691)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.846210591542,37.7670936155054,0
+            -120.846815193926,37.767976913736,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N YOSEMITE AVE-E E ST-N 3RD AVE_SOUTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">374</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84843012 37.7674543, -120.8479083 37.76767445)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.848430117798,37.7674543028298,0
+            -120.847908298116,37.7676744461348,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>E E ST-N SIERRA AVE-E F ST_NORTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">1031</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84605925 37.76716192, -120.84670421 37.76813311)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.846059246666,37.7671619191801,0
+            -120.846704214439,37.768133114452,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N YOSEMITE AVE-E E ST-N 3RD AVE_NORTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">373</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84852757 37.76758067, -120.84800316 37.76780225)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.848527566375,37.7675806663617,0
+            -120.848003164727,37.767802253663,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>E D ST-N 3RD AVE-E E ST_SOUTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">934</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84884749 37.76750717, -120.84949145 37.76845132)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.848847489812,37.7675071722269,0
+            -120.849491445681,37.7684513155121,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>E D ST-N 3RD AVE-E E ST_NORTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">933</SimpleData>
+            <SimpleData name="WKT">LineString (-120.8486956 37.76757688, -120.84932275 37.76852691)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.848695603394,37.7675768757398,0
+            -120.849322754444,37.7685269088138,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N YOSEMITE AVE-E D ST-N 3RD AVE_SOUTHEAST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">368</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84929817 37.76858297, -120.8487007 37.76884284)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.849298165015,37.7685829748541,0
+            -120.84870070466,37.768842844079,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>N YOSEMITE AVE-E D ST-N 3RD AVE_NORTHWEST</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_lines">
+            <SimpleData name="GIS_ID">367</SimpleData>
+            <SimpleData name="WKT">LineString (-120.84939326 37.76870643, -120.84878437 37.76896119)</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            -120.849393260082,37.7687064341779,0
+            -120.848784366137,37.7689611858587,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Document id="oakdale_polygons">
+      <name>oakdale_polygons</name>
+      <Placemark id="oakdale_polygons.1">
+        <name>LOT 1</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_polygons.schema">
+            <SimpleData name="GIS_ID">2001</SimpleData>
+            <SimpleData name="WKT">Polygon ((-120.84908387 37.76823985, -120.84897003 37.76804236, -120.84863778 37.76817247, -120.84877021 37.76836532, -120.84908387 37.76823985))</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -120.84908387,37.76823985,0
+                -120.84897003,37.76804236,0
+                -120.84863778,37.76817247,0
+                -120.84877021,37.76836532,0
+                -120.84908387,37.76823985,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="oakdale_polygons.2">
+        <name>LOT 9</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_polygons.schema">
+            <SimpleData name="GIS_ID">2009</SimpleData>
+            <SimpleData name="WKT">Polygon ((-120.846089 37.76540995, -120.84576373 37.7655447, -120.8451062 37.76456887, -120.84535016 37.76447826, -120.84565453 37.76497547, -120.84578696 37.76492203, -120.846089 37.76540995))</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -120.846089,37.76540995,0
+                -120.84576373,37.7655447,0
+                -120.8451062,37.76456887,0
+                -120.84535016,37.76447826,0
+                -120.84565453,37.76497547,0
+                -120.84578696,37.76492203,0
+                -120.846089,37.76540995,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="oakdale_polygons.3">
+        <name>LOT 2</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_polygons.schema">
+            <SimpleData name="GIS_ID">2002</SimpleData>
+            <SimpleData name="WKT">Polygon ((-120.84949744 37.76778214, -120.84929763 37.76748242, -120.84915358 37.76752889, -120.84904902 37.76737787, -120.84887477 37.76744989, -120.84917449 37.76789599, -120.84949744 37.76778214))</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -120.84949744,37.76778214,0
+                -120.84929763,37.76748242,0
+                -120.84915358,37.76752889,0
+                -120.84904902,37.76737787,0
+                -120.84887477,37.76744989,0
+                -120.84917449,37.76789599,0
+                -120.84949744,37.76778214,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="oakdale_polygons.4">
+        <name>LOT 10</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_polygons.schema">
+            <SimpleData name="GIS_ID">2010</SimpleData>
+            <SimpleData name="WKT">Polygon ((-120.84514338 37.76508235, -120.84491104 37.76517063, -120.84464849 37.76475939, -120.84486922 37.76466646, -120.84514338 37.76508235))</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -120.84514338,37.76508235,0
+                -120.84491104,37.76517063,0
+                -120.84464849,37.76475939,0
+                -120.84486922,37.76466646,0
+                -120.84514338,37.76508235,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="oakdale_polygons.5">
+        <name>LOT 6</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_polygons.schema">
+            <SimpleData name="GIS_ID">2006</SimpleData>
+            <SimpleData name="WKT">Polygon ((-120.84731344 37.76725008, -120.84712292 37.76695036, -120.84685805 37.76705259, -120.84705089 37.76736161, -120.84731344 37.76725008))</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -120.84731344,37.76725008,0
+                -120.84712292,37.76695036,0
+                -120.84685805,37.76705259,0
+                -120.84705089,37.76736161,0
+                -120.84731344,37.76725008,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="oakdale_polygons.6">
+        <name>LOT 7</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_polygons.schema">
+            <SimpleData name="GIS_ID">2007</SimpleData>
+            <SimpleData name="WKT">Polygon ((-120.84894342 37.76476178, -120.84864417 37.76489357, -120.84870342 37.76499057, -120.84841309 37.76510839, -120.84857837 37.76538294, -120.84918576 37.76512569, -120.84894342 37.76476178))</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -120.84894342,37.76476178,0
+                -120.84864417,37.76489357,0
+                -120.84870342,37.76499057,0
+                -120.84841309,37.76510839,0
+                -120.84857837,37.76538294,0
+                -120.84918576,37.76512569,0
+                -120.84894342,37.76476178,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="oakdale_polygons.7">
+        <name>LOT 8</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_polygons.schema">
+            <SimpleData name="GIS_ID">2008</SimpleData>
+            <SimpleData name="WKT">Polygon ((-120.84542916 37.76689925, -120.84528975 37.76695501, -120.84516429 37.7667552, -120.84560109 37.76655771, -120.84568706 37.76669479, -120.84537572 37.76682722, -120.84542916 37.76689925))</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -120.84542916,37.76689925,0
+                -120.84528975,37.76695501,0
+                -120.84516429,37.7667552,0
+                -120.84560109,37.76655771,0
+                -120.84568706,37.76669479,0
+                -120.84537572,37.76682722,0
+                -120.84542916,37.76689925,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="oakdale_polygons.8">
+        <name>LOT 4</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_polygons.schema">
+            <SimpleData name="GIS_ID">2004</SimpleData>
+            <SimpleData name="WKT">Polygon ((-120.84849373 37.76738252, -120.84818007 37.76689692, -120.84785247 37.76704795, -120.84797096 37.76725008, -120.84808016 37.76720594, -120.84826371 37.76747081, -120.84849373 37.76738252))</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -120.84849373,37.76738252,0
+                -120.84818007,37.76689692,0
+                -120.84785247,37.76704795,0
+                -120.84797096,37.76725008,0
+                -120.84808016,37.76720594,0
+                -120.84826371,37.76747081,0
+                -120.84849373,37.76738252,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="oakdale_polygons.9">
+        <name>LOT 5</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_polygons.schema">
+            <SimpleData name="GIS_ID">2005</SimpleData>
+            <SimpleData name="WKT">Polygon ((-120.84900255 37.7664973, -120.84872607 37.76661812, -120.8485704 37.76639507, -120.84884456 37.76627425, -120.84900255 37.7664973))</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -120.84900255,37.7664973,0
+                -120.84872607,37.76661812,0
+                -120.8485704,37.76639507,0
+                -120.84884456,37.76627425,0
+                -120.84900255,37.7664973,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="oakdale_polygons.10">
+        <name>LOT 3</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#oakdale_polygons.schema">
+            <SimpleData name="GIS_ID">2003</SimpleData>
+            <SimpleData name="WKT">Polygon ((-120.84835084 37.7679715, -120.84821724 37.76774497, -120.84802556 37.76783326, -120.84816497 37.76805166, -120.84835084 37.7679715))</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -120.84835084,37.7679715,0
+                -120.84821724,37.76774497,0
+                -120.84802556,37.76783326,0
+                -120.84816497,37.76805166,0
+                -120.84835084,37.7679715,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+    <Document id="oakdale_points">
+      <name>oakdale_points</name>
+      <Placemark id="oakdale_points.1">
+        <name>permit</name>
+        <Point>
+          <coordinates>
+            -120.851701381458,37.768363231969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.2">
+        <name>permit</name>
+        <Point>
+          <coordinates>
+            -120.850118147815,37.7663358674688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.3">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.850345983352,37.7663178803963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.4">
+        <name>permit</name>
+        <Point>
+          <coordinates>
+            -120.85154384256,37.768439315845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.5">
+        <name>loading</name>
+        <Point>
+          <coordinates>
+            -120.850905596143,37.76716586319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.6">
+        <name>loading</name>
+        <Point>
+          <coordinates>
+            -120.850796204825,37.7673221772207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.7">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.850771324111,37.7679393462809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.8">
+        <name>loading</name>
+        <Point>
+          <coordinates>
+            -120.850855512135,37.7680722279161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.9">
+        <name>permit</name>
+        <Point>
+          <coordinates>
+            -120.850860774551,37.7687375095541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.10">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.850687788311,37.7688069928226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.11">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.846804797384,37.7653072727298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.12">
+        <name>loading</name>
+        <Point>
+          <coordinates>
+            -120.849155831821,37.7671240327304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.13">
+        <name>loading</name>
+        <Point>
+          <coordinates>
+            -120.849973943322,37.7657636481111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.14">
+        <name>loading</name>
+        <Point>
+          <coordinates>
+            -120.850054356763,37.7669191778237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.15">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.850076121474,37.7675690322478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.16">
+        <name>permit</name>
+        <Point>
+          <coordinates>
+            -120.849348764027,37.7640599104728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.17">
+        <name>loading</name>
+        <Point>
+          <coordinates>
+            -120.849443938079,37.7641881812721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.18">
+        <name>loading</name>
+        <Point>
+          <coordinates>
+            -120.849379275269,37.7648829629887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.19">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.849218283407,37.7649496069697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.20">
+        <name>loading</name>
+        <Point>
+          <coordinates>
+            -120.849791600597,37.7658244612552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.21">
+        <name>permit</name>
+        <Point>
+          <coordinates>
+            -120.849292879401,37.765735507001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.22">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.849304001188,37.7664077607256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.23">
+        <name>permit</name>
+        <Point>
+          <coordinates>
+            -120.849964177894,37.7667867601321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.24">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.849244431169,37.7672505178346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.25">
+        <name>loading</name>
+        <Point>
+          <coordinates>
+            -120.84991272157,37.7676359530972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.26">
+        <name>permit</name>
+        <Point>
+          <coordinates>
+            -120.849906709165,37.7682942232256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.27">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.849992852141,37.7684342527673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.28">
+        <name>loading</name>
+        <Point>
+          <coordinates>
+            -120.849998277499,37.769092403375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.29">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.849829501631,37.7691607029309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.30">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.848426102629,37.7644530150992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.31">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.848518257277,37.7645784501048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.32">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.847582264208,37.7648050703693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.33">
+        <name>permit</name>
+        <Point>
+          <coordinates>
+            -120.847660486763,37.7649346019228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.34">
+        <name>loading</name>
+        <Point>
+          <coordinates>
+            -120.846707059909,37.7651749985699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.35">
+        <name>permit</name>
+        <Point>
+          <coordinates>
+            -120.847664865652,37.7656043873815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.36">
+        <name>loading</name>
+        <Point>
+          <coordinates>
+            -120.849223361112,37.7656310476696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.37">
+        <name>loading</name>
+        <Point>
+          <coordinates>
+            -120.845567762179,37.765646843007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.38">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.847508294283,37.7656649218597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.39">
+        <name>loading</name>
+        <Point>
+          <coordinates>
+            -120.845662153545,37.765782768955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.40">
+        <name>permit</name>
+        <Point>
+          <coordinates>
+            -120.848345572068,37.7659702507166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.41">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.848436203264,37.766093831652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.42">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.84749852352,37.766327312488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.43">
+        <name>permit</name>
+        <Point>
+          <coordinates>
+            -120.847580072919,37.7664601334889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.44">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.849140071259,37.7664673034036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.45">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.848432306628,37.7667474440518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.46">
+        <name>permit</name>
+        <Point>
+          <coordinates>
+            -120.848309906357,37.7668786290766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.47">
+        <name>permit</name>
+        <Point>
+          <coordinates>
+            -120.84758483963,37.7671282763442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.48">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.847406430256,37.7672346325969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.49">
+        <name>permit</name>
+        <Point>
+          <coordinates>
+            -120.846567611676,37.7674873855462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.50">
+        <name>loading</name>
+        <Point>
+          <coordinates>
+            -120.848223926899,37.7675164954078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.51">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.846436449495,37.7675996377415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.52">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.848320084493,37.7676435809379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.53">
+        <name>permit</name>
+        <Point>
+          <coordinates>
+            -120.849224186689,37.767931364795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.54">
+        <name>permit</name>
+        <Point>
+          <coordinates>
+            -120.849063897861,37.7680040132023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.55">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.849054153779,37.7686650303921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.56">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.849143532052,37.7687859309438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.57">
+        <name>permit</name>
+        <Point>
+          <coordinates>
+            -120.848244135227,37.7678512686944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.58">
+        <name>permit</name>
+        <Point>
+          <coordinates>
+            -120.849234486078,37.7675840924234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.59">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.848918343951,37.7681558493072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.60">
+        <name>permit</name>
+        <Point>
+          <coordinates>
+            -120.848845595122,37.7650324648192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.61">
+        <name>permit</name>
+        <Point>
+          <coordinates>
+            -120.847140212067,37.7671063171652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.62">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.84884091942,37.7663984422493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.63">
+        <name>permit</name>
+        <Point>
+          <coordinates>
+            -120.84823307956,37.7671385975554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.64">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.844949360674,37.7648727840785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.65">
+        <name>paid</name>
+        <Point>
+          <coordinates>
+            -120.845647663124,37.764964937822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="oakdale_points.66">
+        <name>loading</name>
+        <Point>
+          <coordinates>
+            -120.845474624744,37.7667024000614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
